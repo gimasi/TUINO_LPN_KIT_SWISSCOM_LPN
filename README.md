@@ -1,9 +1,9 @@
 # TUINO LPN KIT Demos For Swisscom LPN
 
-This is the Swisscom LPN version of the [TUINO LPN Demos](https://github.com/gimasi/TUINO-LPN-KIT-DEMOS )
-You need to have a TUINO LR with the Swisscom LPN Firmware.
+This is the Swisscom LPN version of the [TUINO LPN Demos](https://github.com/gimasi/TUINO-LPN-KIT-DEMOS )<br/>
+You need to have a TUINO LR with the Swisscom LPN Firmware.<br/>
 
-Here is a picture of the Assembled Kit
+Here is a picture of the Assembled Kit<br/>
 ![LPN_KIT](/docs/img/tuino_lpn_kit.png?raw=true)
 
 There are 4 demos
