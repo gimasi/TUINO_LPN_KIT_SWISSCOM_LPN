@@ -1,4 +1,6 @@
-# TUINO LPN KIT Demos For Swisscom LPN
+# This repo is now obsolete for the new Tuino 1 examples check [https://github.com/gimasi/TUINO1_THERMOSTAT](https://github.com/gimasi/TUINO1_THERMOSTAT)
+
+## LORAUINO/TUINO LPN KIT Demos For Swisscom LPN
 
 This is the Swisscom LPN version of the [TUINO LPN Demos](https://github.com/gimasi/TUINO-LPN-KIT-DEMOS )<br/>
 You need to have a TUINO LR with the Swisscom LPN Firmware.<br/>
